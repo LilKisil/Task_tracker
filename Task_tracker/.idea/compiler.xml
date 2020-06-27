@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-boot-application" />
         <module name="Task_tracker" />
+        <module name="spring-boot-application" />
       </profile>
     </annotationProcessing>
   </component>
