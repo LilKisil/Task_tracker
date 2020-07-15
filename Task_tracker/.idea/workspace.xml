@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0efdb4b6-39aa-468b-966f-76da62ba796c" name="Default Changelist" comment="" />
+    <list default="true" id="158037f1-47ee-4591-9270-2ee1cd395f65" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,14 +11,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
+        <option value="Enum" />
         <option value="Interface" />
-        <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -27,17 +24,17 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1drK6amsqdP384zptC2MRvVdNgB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1dxNYGhOuenthqEnlTdwSPFGZwS" />
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/portfolio/originalOne" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -53,7 +50,7 @@
   </component>
   <component name="RunManager">
     <configuration name="SpringTrackerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-application" />
+      <module name="Tracker" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tracker.*" />
@@ -71,40 +68,32 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="showServicesTree" value="false" />
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0efdb4b6-39aa-468b-966f-76da62ba796c" name="Default Changelist" comment="" />
-      <created>1593177598384</created>
+      <changelist id="158037f1-47ee-4591-9270-2ee1cd395f65" name="Default Changelist" comment="" />
+      <created>1593362829944</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1593177598384</updated>
-      <workItem from="1593177603842" duration="680000" />
-      <workItem from="1593178651175" duration="701000" />
-      <workItem from="1593183613298" duration="8020000" />
-      <workItem from="1593196109561" duration="4574000" />
+      <updated>1593362829944</updated>
+      <workItem from="1593362833731" duration="2244000" />
+      <workItem from="1593365276350" duration="14413000" />
+      <workItem from="1594198497662" duration="128000" />
+      <workItem from="1594466847159" duration="8125000" />
+      <workItem from="1594490128732" duration="1464000" />
+      <workItem from="1594493162656" duration="1560000" />
+      <workItem from="1594496741071" duration="2279000" />
+      <workItem from="1594576804102" duration="1709000" />
+      <workItem from="1594634163946" duration="4537000" />
+      <workItem from="1594662864817" duration="3834000" />
+      <workItem from="1594802529587" duration="4758000" />
+      <workItem from="1594818596083" duration="2569000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
